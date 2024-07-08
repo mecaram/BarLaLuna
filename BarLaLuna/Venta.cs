@@ -9,6 +9,8 @@ namespace BarLaLuna
 {
     public class Venta
     {
+        // Agrego comentario para subir al gitHub
+        // Agrego otro comentario para subir al gitHub
         public DateTime FechaVenta;
         public string Producto = "";
         public int Cantidad = 0;
